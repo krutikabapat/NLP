@@ -10,3 +10,11 @@ Question Answering Techniques and Paradigms
 4. https://towardsdatascience.com/automatic-question-answering-ac7593432842  
 
 
+## Latest Libraries to haveknowlede about related to NLP:  
+
+1. gluonnlp  
+2. tqdm  
+3. ParlAI  
+
+
+
