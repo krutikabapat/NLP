@@ -24,5 +24,13 @@ Question Answering Techniques and Paradigms
 4. CLOZE dataset: to predict a missing word in the passage.  
 5. WIKIMOVIES Dataset(220K questions and 18K wikipedia articles)  
 
+## Present Methods of Question-Answer Retrieval:
+
+a) Dynamic Coattention Nets  
+b) Multi Perspective Matching  
+c) BiDAF  
+d) R-Net  
+e) DRQA  
+
 
 
