@@ -7,19 +7,19 @@ Approaches of Question Classification:
 
 <b>Manual classification:</b>​ Manual classification applies hand-made rules to identify expected answer types. These rules may be accurate but they are time-consuming, tedious, and non-extensible in nature.  
 
-Automatic classification:​ This type of definition helps on a better answer detection. Automatic classifications, in contrast, are extensible to new questions types with acceptable accuracy.  
+<b>Automatic classification:</b>​ This type of definition helps on a better answer detection. Automatic classifications, in contrast, are extensible to new questions types with acceptable accuracy.  
 
 ## Type of Questions:  
 
-Factoid: ​ Factoid questions are the ones that ask about a simple fact and can be answered in a few words.  
+<b>Factoid:</b> ​ Factoid questions are the ones that ask about a simple fact and can be answered in a few words.  
 
-Complex questions:​ Complex Question is about information in a context. Usually, the answer is a merge of retrieved passages.
+<b>Complex questions:</b>​ Complex Question is about information in a context. Usually, the answer is a merge of retrieved passages.
 Examples to implement the above: Normalized Raw-Scoring, Logistic Regression, Round-Robin, Raw Scoring and 2-step RSV.  
 
-List Questions: ​ Demands as an answer a set of entities that satisfies a given criteria.  
+<b>List Questions:</b> ​ Demands as an answer a set of entities that satisfies a given criteria.  
 Example: When did Brazil win Soccer World Cups? illustrates this point clearly.  
  
-Definition questions:​ They expect a summary or a short passage in return
+<b>Definition questions:</b>​ They expect a summary or a short passage in return
 How does the mitosis of a cell work?
 
 
