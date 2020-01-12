@@ -20,7 +20,17 @@ Examples to implement the above: Normalized Raw-Scoring, Logistic Regression, Ro
 Example: When did Brazil win Soccer World Cups? illustrates this point clearly.  
  
 <b>Definition questions:</b>​ They expect a summary or a short passage in return
-How does the mitosis of a cell work?
+How does the mitosis of a cell work?  
+
+## Types of QA systems can be defined by the paradigm each one implements:
+
+1. <b>Information Retrieval QA:</b>​ Usage of search engines to retrieve answers and then apply filters and ranking on the recovered passage.  
+
+2. <b>Natural Language Processing QA:</b>​ Usage of linguistic intuitions and machine learning methods to extract answers from retrieved snippet.  
+
+3. <b>Knowledge Base QA:</b>​ Find answers from structured data source (a knowledge base) instead of unstructured text. Standard database queries are used in replacement of word-based searches. This paradigm, make use of structured data, such as ontology. An ontology describes a conceptual representation of concepts and their relationships within a specific domain. Ontology can be considered as a knowledge base which has a more sophisticated form than a relational database (Abdi et al., 2016). To execute queries in order to retrieve knowledge from the ontology, structured languages are proposed and one of then is SPARQL.  
+
+4. <b>Hybrid QA:</b>​ High performance QA systems make use of as many types of resources as possible, especially with the prevailing popularity of modern search engines and enriching community contributed knowledge on the web. A hybrid approach is the combination of IR QA, NLP QA and KB QA. The main example of this paradigm is IBM Watson.  
 
 
 ## Reference material to read:  
