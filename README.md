@@ -1,5 +1,13 @@
 # NLP
-Question Answering Techniques and Paradigms  
+
+
+## Question Answering Techniques and Paradigms  
+
+Approaches of Question Classification:  
+
+Manual classification:​ Manual classification applies hand-made rules to identify expected answer types. These rules may be accurate but they are time-consuming, tedious, and non-extensible in nature.  
+
+Automatic classification:​ This type of definition helps on a better answer detection. Automatic classifications, in contrast, are extensible to new questions types with acceptable accuracy.  
 
 
 ## Reference material to read:  
