@@ -10,11 +10,19 @@ Question Answering Techniques and Paradigms
 4. https://towardsdatascience.com/automatic-question-answering-ac7593432842  
 
 
-## Latest Libraries to haveknowlede about related to NLP:  
+## Latest Libraries to have knowledge about related to NLP:  
 
 1. gluonnlp  
 2. tqdm  
 3. ParlAI  
+
+## Dataset:  
+
+1. SQuAD  
+2. MCTest (machine comprehension): It contains 660 stories with 4 questions per story and 4 answer choices per question.  
+3. WikiQA: WikiQA is an open domain dataset of question and sentence pairs, collected and annotated for research on open-domain question answering.  
+4. CLOZE dataset: to predict a missing word in the passage.  
+5. WIKIMOVIES Dataset(220K questions and 18K wikipedia articles)  
 
 
 
