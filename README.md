@@ -1,7 +1,6 @@
 # NLP  
 
-[!ScreenShot](NLP.png)
-
+![Screenshot](NLP.png)
 ## Question Answering Techniques and Paradigms  
 
 Approaches of Question Classification:  
