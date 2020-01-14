@@ -40,6 +40,7 @@ How does the mitosis of a cell work?
 3. https://arxiv.org/pdf/1905.07098v2.pdf  
 4. https://towardsdatascience.com/automatic-question-answering-ac7593432842  
 5. nlpprocessing.com  
+6. https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e
 
 
 ## Latest Libraries to have knowledge about related to NLP:  
