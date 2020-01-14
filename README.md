@@ -1,5 +1,5 @@
 # NLP
-
+[!ScreenShot](https://github.com/krutikabapat/NLP/edit/master/NLP.png)
 
 ## Question Answering Techniques and Paradigms  
 
