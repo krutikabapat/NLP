@@ -46,6 +46,7 @@ How does the mitosis of a cell work?
 9. https://arxiv.org/pdf/1801.06287.pdf(Text CNN)  
 10. https://arxiv.org/pdf/1808.04926.pdf(How Much Reading Does Reading Comprehension Require?
 A Critical Investigation of Popular Benchmarks)  
+11. https://arxiv.org/abs/1804.09541 (QA Net)
 
 
 ## Latest Libraries to have knowledge about related to NLP:  
