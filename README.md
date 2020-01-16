@@ -41,10 +41,10 @@ How does the mitosis of a cell work?
 4. https://towardsdatascience.com/automatic-question-answering-ac7593432842  
 5. nlpprocessing.com  
 6. https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e  
-7. https://github.com/Kyubyong/nlp_tasks(useful github repo)  
-8. https://github.com/keon/awesome-nlp#reading-content(useful github repo)   
-9. https://arxiv.org/pdf/1801.06287.pdf( Text CNN)  
-10. https://arxiv.org/pdf/1808.04926.pdf( How Much Reading Does Reading Comprehension Require?
+7. https://github.com/Kyubyong/nlp_tasks (useful github repo)  
+8. https://github.com/keon/awesome-nlp#reading-content (useful github repo)   
+9. https://arxiv.org/pdf/1801.06287.pdf (Text CNN)  
+10. https://arxiv.org/pdf/1808.04926.pdf (How Much Reading Does Reading Comprehension Require?
 A Critical Investigation of Popular Benchmarks)  
 11. https://arxiv.org/abs/1804.09541 (QA Net)
 
@@ -70,6 +70,11 @@ b) Multi Perspective Matching
 c) BiDAF  
 d) R-Net  
 e) DRQA  
+
+## Create embeddings:  
+
+a) Character Embeddings (Char-CNN)  
+b) Word Embeddings (GLove)  
 
 ## Evaluation Matrices:  
 
