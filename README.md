@@ -50,7 +50,8 @@ A Critical Investigation of Popular Benchmarks)
 12. https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54  
 13. http://jalammar.github.io/illustrated-transformer/  
 14. https://lambdaviking.com/post/capsule-networks-for-nlp/writeup.pdf  
-15. https://github.com/facebookresearch/
+15. https://github.com/facebookresearch/  
+16. https://hackernoon.com/finding-the-most-important-sentences-using-nlp-tf-idf-3065028897a3  (TF-IDF Matching)
 
 
 
