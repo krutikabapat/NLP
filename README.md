@@ -51,7 +51,8 @@ A Critical Investigation of Popular Benchmarks)
 13. http://jalammar.github.io/illustrated-transformer/  
 14. https://lambdaviking.com/post/capsule-networks-for-nlp/writeup.pdf  
 15. https://github.com/facebookresearch/  
-16. https://hackernoon.com/finding-the-most-important-sentences-using-nlp-tf-idf-3065028897a3  (TF-IDF Matching)
+16. https://hackernoon.com/finding-the-most-important-sentences-using-nlp-tf-idf-3065028897a3  (TF-IDF Matching)  
+17. https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270  
 
 
 
