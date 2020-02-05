@@ -66,11 +66,11 @@ A Critical Investigation of Popular Benchmarks)
 
 ## Dataset:  
 
-1. SQuAD  
-2. MCTest (machine comprehension): It contains 660 stories with 4 questions per story and 4 answer choices per question.  
+1. SQuAD v1 and v2.  
+2. MCTest (Machine comprehension): It contains 660 stories with 4 questions per story and 4 answer choices per question.  
 3. WikiQA: WikiQA is an open domain dataset of question and sentence pairs, collected and annotated for research on open-domain question answering.  
-4. CLOZE dataset: to predict a missing word in the passage.  
-5. WIKIMOVIES Dataset(220K questions and 18K wikipedia articles)  
+4. CLOZE dataset: To predict a missing word in the passage.  
+5. WIKIMOVIES Dataset (220K questions and 18K wikipedia articles)  
 
 ## Present Methods of Question-Answer Retrieval:
 
