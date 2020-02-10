@@ -89,7 +89,9 @@ b) Word Embeddings (GLove)
 
 Most of the networks use ESM and F1 score as a matrix for evaluation.  
 <b>a) Exact String Match (ESM): </b>​ The target and the generated string must match completely.  
-<b>b) F1 score:</b>​ The percentage of generated string words that match with the target words.   
+<b>b) F1 score:</b>​ The percentage of generated string words that match with the target words. 
+
+
 
 
 
