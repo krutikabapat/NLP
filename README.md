@@ -54,7 +54,9 @@ A Critical Investigation of Popular Benchmarks)
 16. https://hackernoon.com/finding-the-most-important-sentences-using-nlp-tf-idf-3065028897a3  (TF-IDF Matching)  
 17. https://arxiv.org/abs/1611.01603 (BiDAF)  
 18. https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270  (Bert Implementation)    
-19. https://github.com/facebookresearch/DrQA/issues/4 (Issues in DRQA Implementation)
+19. https://github.com/facebookresearch/DrQA/issues/4 (Issues in DRQA Implementation)  
+20. https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
+(TF-IDF Matching)  
 
 
 
