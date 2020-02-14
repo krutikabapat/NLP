@@ -57,7 +57,7 @@ A Critical Investigation of Popular Benchmarks)
 19. https://github.com/facebookresearch/DrQA/issues/4 (Issues in DRQA Implementation)  
 20. https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
 (TF-IDF Matching)  
-21. https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/  
+21. https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/ (Attention Models)  
 
 
 
