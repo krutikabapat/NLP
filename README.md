@@ -58,6 +58,7 @@ A Critical Investigation of Popular Benchmarks)
 20. https://towardsdatascience.com/tf-idf-for-document-ranking-from-scratch-in-python-on-real-world-dataset-796d339a4089
 (TF-IDF Matching)  
 21. https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/ (Attention Models)  
+22. https://medium.com/analytics-vidhya/fundamentals-of-bag-of-words-and-tf-idf-9846d301ff22 (Bag Of Words).   
 
 
 
