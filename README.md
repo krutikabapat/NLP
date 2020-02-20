@@ -67,6 +67,7 @@ A Critical Investigation of Popular Benchmarks)
 1. gluonnlp  
 2. tqdm  
 3. ParlAI  
+4. allennlp  
 
 ## Dataset:  
 
@@ -83,6 +84,7 @@ b) Multi Perspective Matching
 c) BiDAF  
 d) R-Net  
 e) DRQA  
+f) QNet  
 
 ## Create embeddings:  
 
