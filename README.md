@@ -44,8 +44,7 @@ How does the mitosis of a cell work?
 7. https://github.com/Kyubyong/nlp_tasks (useful github repo)  
 8. https://github.com/keon/awesome-nlp#reading-content (useful github repo)   
 9. https://arxiv.org/pdf/1801.06287.pdf (Text CNN)  
-10. https://arxiv.org/pdf/1808.04926.pdf (How Much Reading Does Reading Comprehension Require?
-A Critical Investigation of Popular Benchmarks)  
+10. https://arxiv.org/pdf/1808.04926.pdf (How Much Reading Does Reading Comprehension Required?)  
 11. https://arxiv.org/abs/1804.09541 (QA Net)  
 12. https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54  
 13. http://jalammar.github.io/illustrated-transformer/  
