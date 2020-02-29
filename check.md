@@ -1,7 +1,7 @@
 @gf712 Can you please review the following steps to be added in EXAMPLES.md. Thanks in advance :D.
 It is extremely simple to add a new example. Just create another `*.sg` file. The following are the steps to port the examples:
 
-1. Add file in examples/meta/src/*/*.sg (.sg file contains example code in meta-language specific to shogun)
+1. Add file in ```examples/meta/src/*/*.sg``` (```.sg``` file contains example code in meta-language specific to shogun)  
 
 2. The next step is to build these examples. During build these are parsed and then translated with the (Python) machinery in ```examples/meta/generator/*.py.``` The output is a code listing for each target language defined in ```examples/meta/src/generator/targets/*.json.```   
 For python, the command is:   
