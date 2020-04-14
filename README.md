@@ -58,7 +58,8 @@ How does the mitosis of a cell work?
 (TF-IDF Matching)  
 21. https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/ (Attention Models)  
 22. https://medium.com/analytics-vidhya/fundamentals-of-bag-of-words-and-tf-idf-9846d301ff22 (Bag Of Words).   
-23. https://spacy.io/usage/spacy-101
+23. https://spacy.io/usage/spacy-101  
+24. https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507
 
 
 
