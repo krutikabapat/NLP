@@ -39,7 +39,7 @@ How does the mitosis of a cell work?
 2. https://www.aclweb.org/anthology/S13-1041.pdf  
 3. https://arxiv.org/pdf/1905.07098v2.pdf  
 4. https://towardsdatascience.com/automatic-question-answering-ac7593432842  
-5. nlpprocessing.com  
+5. https://www.kdnuggets.com/2017/12/general-approach-preprocessing-text-data.html (NLP Processing)  
 6. https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e  
 7. https://github.com/Kyubyong/nlp_tasks (useful github repo)  
 8. https://github.com/keon/awesome-nlp#reading-content (useful github repo)   
