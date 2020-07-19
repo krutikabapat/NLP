@@ -1,5 +1,13 @@
 # NLP  
 
+## Basic Tasks in NLP:  
+1. Sentimental Analysis  
+2. Question Answering  
+3. Text Summarization  
+4. Machine Translation  
+5. Image to text generation  
+6. Natural Language Translators.  
+
 ![Screenshot](NLP.png)
 ## Question Answering Techniques and Paradigms  
 
