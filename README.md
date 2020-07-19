@@ -79,6 +79,8 @@ How does the mitosis of a cell work?
 2. tqdm  
 3. ParlAI  
 4. allennlp  
+5. Spacy  
+6. Corenlp  
 
 ## Dataset:  
 
