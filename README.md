@@ -84,7 +84,7 @@ How does the mitosis of a cell work?
 
 ## Dataset:  
 
-1. SQuAD v1 and v2.  
+1. SQuAD v1 and v2 (https://rajpurkar.github.io/SQuAD-explorer/)    
 2. MCTest (Machine comprehension): It contains 660 stories with 4 questions per story and 4 answer choices per question.  
 3. WikiQA: WikiQA is an open domain dataset of question and sentence pairs, collected and annotated for research on open-domain question answering.  
 4. CLOZE dataset: To predict a missing word in the passage.  
