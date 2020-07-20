@@ -103,7 +103,7 @@ f) QNet
 
 a) Character Embeddings (Char-CNN)  
 b) Word Embeddings (GLove)  
-
+c) Seq2Seq Model (https://www.analyticsvidhya.com/blog/2018/03/essentials-of-deep-learning-sequence-to-sequence-modelling-with-attention-part-i/#:~:text=A%20typical%20sequence%20to%20sequence,smaller%20dimensional%20representation%20of%20it.)  
 ## Evaluation Matrices:  
 
 Most of the networks use ESM and F1 score as a matrix for evaluation.  
