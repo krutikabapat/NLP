@@ -89,6 +89,8 @@ How does the mitosis of a cell work?
 3. WikiQA: WikiQA is an open domain dataset of question and sentence pairs, collected and annotated for research on open-domain question answering.  
 4. CLOZE dataset: To predict a missing word in the passage.  
 5. WIKIMOVIES Dataset (220K questions and 18K wikipedia articles)  
+6. Quora dataset  
+7. Twitter datset  
 
 ## Present Methods of Question-Answer Retrieval:
 
